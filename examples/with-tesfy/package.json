@@ -13,7 +13,7 @@
     "react-dom": "^16.13.1",
     "react-tesfy": "latest",
     "tesfy": "latest",
-    "uuid": "8.1.0"
+    "uuid": "14.0.0"
   },
   "license": "MIT"
 }
